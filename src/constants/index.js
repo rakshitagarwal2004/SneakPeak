@@ -35,26 +35,26 @@ export const statistics = [
 ];
 
 export const products = [
-    {
-        imgURL: shoe4,
-        name: "AirMax Fusion X",
-        price: "Kshs 20,000.20",
-    },
-    {
-        imgURL: shoe5,
-        name: "Zoom Ultra Boost",
-        price: "Kshs 21,000.20",
-    },
-    {
-        imgURL: shoe6,
-        name: "React Volt Runner",
-        price: "Kshs 22,000.20",
-    },
-    {
-        imgURL: shoe7,
-        name: "Lunar Blaze Elite",
-        price: "Kshs 23,000.20",
-    },
+  {
+    imgURL: shoe4,
+    name: "AirMax Fusion X",
+    price: "₹42,800.13",
+  },
+  {
+    imgURL: shoe5,
+    name: "Zoom Ultra Boost",
+    price: "₹33,440.13",
+  },
+  {
+    imgURL: shoe6,
+    name: "React Volt Runner",
+    price: "₹14,080.13",
+  },
+  {
+    imgURL: shoe7,
+    name: "Lunar Blaze Elite",
+    price: "₹34,720.13",
+  },
 ];
 
 export const services = [
@@ -78,13 +78,25 @@ export const services = [
     export const reviews = [
         {
             imgURL: customer1,
-            customerName: 'John Smith',
+            customerName: 'Amitabh Bachchan',
             rating: 4.5,
             feedback: "The attention to detail and the quality of the product exceeded my expectations. Highly recommended!"
         },
         {
             imgURL: customer2,
-            customerName: 'Jane Doe',
+            customerName: 'Janvi Kapoor',
+            rating: 4.5,
+            feedback: "The product not only met but exceeded my expectations. I'll definitely be a returning customer!"
+        },
+        {
+            imgURL: customer2,
+            customerName: 'Ranbir Kapoor',
+            rating: 4.5,
+            feedback: "The product not only met but exceeded my expectations. I'll definitely be a returning customer!"
+        },
+        {
+            imgURL: customer2,
+            customerName: 'Alia Bhatt',
             rating: 4.5,
             feedback: "The product not only met but exceeded my expectations. I'll definitely be a returning customer!"
         }
