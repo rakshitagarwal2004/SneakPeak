@@ -1,8 +1,12 @@
 {
-  "name": "nike-clone",
+  "name": "sneakpeak",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "author": {
+    "name": "Rakshit Agarwal",
+    "email": "orakshit109@gmail.com"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
